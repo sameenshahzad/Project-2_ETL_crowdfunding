@@ -1,4 +1,4 @@
-## Project#2_ETL_Crowdfunding
+## Project 2 - ETL_Crowdfunding
 
 1. Building an ETL pipeline using Pandas and Python dictionary methods to extract and transform the Crowdfunding data.
 
